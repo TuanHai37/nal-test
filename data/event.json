@@ -1,0 +1,92 @@
+[
+    {
+        "eventName": "Birthday Party",
+        "startDate": "2023-03-15T00:00:00Z",
+        "dueDate": "2023-03-15T00:00:00Z",
+        "description": "Birthday party"
+    },
+    {
+        "eventName": "Meeting with clients",
+        "startDate": "2023-03-20T00:00:00Z",
+        "dueDate": "2023-03-20T00:00:00Z",
+        "description": "Discuss new project ideas"
+    },
+    {
+        "eventName": "Conference",
+        "startDate": "2023-03-25T00:00:00Z",
+        "dueDate": "2023-03-27T18:00:00Z",
+        "description": "Annual technology conference"
+    },
+    {
+        "eventName": "Product Launch",
+        "startDate": "2023-03-29T00:00:00Z",
+        "dueDate": "2023-03-29T00:00:00Z",
+        "description": "Launch new product line"
+    },
+    {
+        "eventName": "Team Building",
+        "startDate": "2023-04-02T00:00:00Z",
+        "dueDate": "2023-04-02T00:00:00Z",
+        "description": "Annual team building event"
+    },
+    {
+        "eventName": "Project Kick-off Meeting",
+        "startDate": "2023-04-05T00:00:00Z",
+        "dueDate": "2023-04-05T00:00:00Z",
+        "description": "Project kick-off meeting"
+    },
+    {
+        "eventName": "Executive Meeting",
+        "startDate": "2023-04-10T00:00:00Z",
+        "dueDate": "2023-04-10T00:00:00Z",
+        "description": "Meeting with executives"
+    },
+    {
+        "eventName": "Webinar",
+        "startDate": "2023-04-13T00:00:00Z",
+        "dueDate": "2023-04-13T00:00:00Z",
+        "description": "Online webinar on new technologies"
+    },
+    {
+        "eventName": "Trade Show",
+        "startDate": "2023-04-18T00:00:00Z",
+        "dueDate": "2023-04-20T00:00:00Z",
+        "description": "Annual industry trade show"
+    },
+    {
+        "eventName": "Performance Review",
+        "startDate": "2023-04-25T00:00:00Z",
+        "dueDate": "2023-04-25T00:00:00Z",
+        "description": "Performance review meeting"
+    },
+    {
+        "eventName": "Team Meeting",
+        "startDate": "2018-04-25T00:00:00Z",
+        "dueDate": "2023-04-25T00:00:00Z",
+        "description": "Monthly team meeting"
+    },
+    {
+        "eventName": "Charity Event",
+        "startDate": "2019-04-25T00:00:00Z",
+        "dueDate": "2023-04-25T00:00:00Z",
+        "description": "Charity fundraising event"
+    },
+    {
+        "eventName": "Product Demo",
+        "startDate": "2020-04-25T00:00:00Z",
+        "dueDate": "2023-04-25T00:00:00Z",
+        "description": "Product demo to clients"
+    },
+    {
+        "eventName": "Investor Meeting",
+        "startDate": "2022-04-25T00:00:00Z",
+        "dueDate": "2023-04-25T00:00:00Z",
+        "description": "Meeting with potential investors"
+    },
+    {
+        "eventName": "Team Building",
+        "startDate": "2021-04-25T00:00:00Z",
+        "dueDate": "2023-04-25T00:00:00Z",
+        "description": "Team building event"
+    }
+]
